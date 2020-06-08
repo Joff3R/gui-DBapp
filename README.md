@@ -1,3 +1,3 @@
 # gui-DBapp
 
-## App created for university project.
+## Simple database GUI app created for university project.
